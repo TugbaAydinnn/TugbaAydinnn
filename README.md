@@ -10,9 +10,9 @@
   <a href="https://linkedin.com/in/tuğba-aydın-272628196/" target = "boş">
     <img align = "center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt = "tuğba-aydın-272628196/" height = "30" width = "40" />
   </a>
-  <a href="https://www.leetcode.com/" target="blank">
+  <a href="https://www.leetcode.com/tugbaydin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"         
-     alt="" height="30" width="40" />
+     alt="tugbaydin" height="30" width="40" />
   </a>
 </p>
 
