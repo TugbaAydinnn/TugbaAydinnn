@@ -2,13 +2,17 @@
 <h1 align="center">Hi  👋, I'm Tugba </h1>
 <h3 align="center">A software developer from Turkey. I am a java developer. 💻 </h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=TugbaAydinnn&label=Profile%20views&color=0e75b6&style=flat" alt = "TugbaAydinnn" /> </p>
 
-<p align = "left"> 
-  <a href = "https:/ /github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TugbaAydinnn" alt="TugbaAydinnn" />
-  </a > 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=TugbaAydinnn&label=Profile%20views&color=0e75b6&style=flat" alt="TugbaAydinnn" /> 
 </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TugbaAydinnn" alt="TugbaAydinnn" />
+  </a> 
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
